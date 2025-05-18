@@ -1,0 +1,44 @@
+[
+  { "name": "Ravi", "subject": "tamil" },
+  { "name": "Sita", "subject": "tamil" },
+  { "name": "Prabha", "subject": "tamil" },
+  { "name": "Parvathi", "subject": "tamil" },
+
+  { "name": "John", "subject": "english" },
+  { "name": "Mary", "subject": "english" },
+  { "name": "Amutha", "subject": "english" },
+
+  { "name": "Anu", "subject": "math" },
+  { "name": "Kumar", "subject": "math" },
+  { "name": "Madhesh", "subject": "math" },
+
+  { "name": "Sophie", "subject": "french" },
+  { "name": "Pierre", "subject": "french" },
+
+  { "name": "Ganesh", "subject": "physics" },
+  { "name": "Nirmal", "subject": "physics" },
+
+  { "name": "Lakshmi", "subject": "chemistry" },
+  { "name": "Vikram", "subject": "chemistry" },
+
+  { "name": "Meena", "subject": "botony" },
+  { "name": "Saravanan", "subject": "botony" },
+
+  { "name": "Priya", "subject": "zoology" },
+  { "name": "Raj", "subject": "zoology" },
+
+  { "name": "Deepak", "subject": "computerScience" },
+  { "name": "Swathi", "subject": "computerScience" },
+
+  { "name": "Thomas", "subject": "history" },
+  { "name": "Rebecca", "subject": "history" },
+
+  { "name": "Sundar", "subject": "accounts" },
+  { "name": "Malar", "subject": "accounts" },
+
+  { "name": "Rakesh", "subject": "commerce" },
+  { "name": "Latha", "subject": "commerce" },
+
+  { "name": "Harish", "subject": "economics" },
+  { "name": "Divya", "subject": "economics" }
+]
